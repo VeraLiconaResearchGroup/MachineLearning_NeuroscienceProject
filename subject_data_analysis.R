@@ -17,6 +17,9 @@ subjectdatapca <- mutate_u(subjectdatapca, class = subjectdata$class)
 # biplot (without vector labels, for cleaner visualization)
 ggbiplot(subjectdatapca) + geom_u_point(aes(color = class)) + geom_v_vector(color = "BLACK")
 
+# biplot with vector labels
+ggbiplot(subjectdatapca) + geom_u_point(aes(color = class)) + geom_v_vector(color = "BLACK") + geom_v_text_radiate(aes(label = .name))
+
 # scree plot
 subjectdatapcacoord <- augmentation_coord(subjectdatapca)
 
