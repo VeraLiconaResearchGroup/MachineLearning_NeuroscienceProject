@@ -58,6 +58,10 @@ table(cutree(subjectdatahclust, 2), subjectdata$class)
 table(cutree(subjectdatahclust, 3), subjectdata$class)
 
 
+# plot dendrogram
+plot(subjectdatahclust)
+
+
 
 # identify subjects by cluster
 
