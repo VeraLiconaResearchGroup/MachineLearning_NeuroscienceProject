@@ -1,0 +1,36 @@
+\begin{thebibliography}{1}
+
+\bibitem{nimh_2019}
+Major depression, Feb 2019.
+
+\bibitem{Anand2017}
+Kuljeet~Singh Anand and Vikas Dhikav.
+\newblock {Hippocampus in health and disease : An overview}.
+\newblock {\em Annals of Indian Academy of Neurology}, 2017.
+
+\bibitem{Hamilton2008}
+J.~P. Hamilton, M.~Siemer, and I.~H. Gotlib.
+\newblock {Amygdala volume in major depressive disorder: A meta-analysis of
+  magnetic resonance imaging studies}, 2008.
+
+\bibitem{james2013introduction}
+Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani.
+\newblock {\em An introduction to statistical learning}, volume 112.
+\newblock Springer, 2013.
+
+\bibitem{lemelin1994depression}
+Jacques Lemelin, Steve Hotz, Robert Swensen, and Thomas Elmslie.
+\newblock Depression in primary care. why do we miss the diagnosis?
+\newblock {\em Canadian Family Physician}, 40:104, 1994.
+
+\bibitem{paul_2018}
+Sayak Paul.
+\newblock Beginner's guide to feature selection in python, Sep 2018.
+
+\bibitem{phelps2004human}
+Elizabeth~A Phelps.
+\newblock Human emotion and memory: interactions of the amygdala and
+  hippocampal complex.
+\newblock {\em Current opinion in neurobiology}, 14(2):198--202, 2004.
+
+\end{thebibliography}

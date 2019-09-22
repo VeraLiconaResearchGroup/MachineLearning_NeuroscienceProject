@@ -1,0 +1,20 @@
+\contentsline {chapter}{\numberline {1}Introduction}{2}{chapter.1}% 
+\contentsline {chapter}{\numberline {2}Background Information}{3}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Neuroscience Data Collection}{3}{section.2.1}% 
+\contentsline {section}{\numberline {2.2}Data Processing}{4}{section.2.2}% 
+\contentsline {chapter}{\numberline {3}Data Mining}{5}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Conserved Components in Dynamic Signatures}{5}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}Features Generated for Dynamic Signatures}{6}{section.3.2}% 
+\contentsline {subsection}{\numberline {3.2.1}Network Features}{6}{subsection.3.2.1}% 
+\contentsline {subsubsection}{General Network Characteristics}{6}{section*.2}% 
+\contentsline {subsubsection}{Motif Occurrences}{6}{section*.3}% 
+\contentsline {subsection}{\numberline {3.2.2}Phenotypic Data}{7}{subsection.3.2.2}% 
+\contentsline {subsection}{\numberline {3.2.3}Data Collation}{7}{subsection.3.2.3}% 
+\contentsline {chapter}{\numberline {4}Dimensionality Reduction and Machine Learning}{8}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Dimensionality Reduction}{8}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}Machine Learning}{12}{section.4.2}% 
+\contentsline {subsection}{\numberline {4.2.1}Hierarchical clustering}{12}{subsection.4.2.1}% 
+\contentsline {subsection}{\numberline {4.2.2}k-means}{14}{subsection.4.2.2}% 
+\contentsline {subsection}{\numberline {4.2.3}k-nearest neighbors}{14}{subsection.4.2.3}% 
+\contentsline {chapter}{\numberline {5}Feature Selection}{16}{chapter.5}% 
+\contentsline {chapter}{\numberline {6}Conclusions and Next Steps}{19}{chapter.6}% 

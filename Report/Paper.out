@@ -1,0 +1,18 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [0][-]{chapter.2}{Background Information}{}% 2
+\BOOKMARK [1][-]{section.2.1}{Neuroscience Data Collection}{chapter.2}% 3
+\BOOKMARK [1][-]{section.2.2}{Data Processing}{chapter.2}% 4
+\BOOKMARK [0][-]{chapter.3}{Data Mining}{}% 5
+\BOOKMARK [1][-]{section.3.1}{Conserved Components in Dynamic Signatures}{chapter.3}% 6
+\BOOKMARK [1][-]{section.3.2}{Features Generated for Dynamic Signatures}{chapter.3}% 7
+\BOOKMARK [2][-]{subsection.3.2.1}{Network Features}{section.3.2}% 8
+\BOOKMARK [2][-]{subsection.3.2.2}{Phenotypic Data}{section.3.2}% 9
+\BOOKMARK [2][-]{subsection.3.2.3}{Data Collation}{section.3.2}% 10
+\BOOKMARK [0][-]{chapter.4}{Dimensionality Reduction and Machine Learning}{}% 11
+\BOOKMARK [1][-]{section.4.1}{Dimensionality Reduction}{chapter.4}% 12
+\BOOKMARK [1][-]{section.4.2}{Machine Learning}{chapter.4}% 13
+\BOOKMARK [2][-]{subsection.4.2.1}{Hierarchical clustering}{section.4.2}% 14
+\BOOKMARK [2][-]{subsection.4.2.2}{k-means}{section.4.2}% 15
+\BOOKMARK [2][-]{subsection.4.2.3}{k-nearest neighbors}{section.4.2}% 16
+\BOOKMARK [0][-]{chapter.5}{Feature Selection}{}% 17
+\BOOKMARK [0][-]{chapter.6}{Conclusions and Next Steps}{}% 18
